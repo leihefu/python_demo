@@ -49,3 +49,5 @@ if  write_buf == read_buf:
     print(read_buf.hex())
 else:
     print("error")
+
+input("按Enter键退出")
